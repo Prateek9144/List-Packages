@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayList
+comment1.params=
+comment1.target=ArrayList()
+comment2.params=j
+comment2.target=void\ add(java.lang.Integer)
+comment3.params=
+comment3.target=void\ TRAVERSE()
+comment4.params=y\ pos
+comment4.target=void\ add(java.lang.Integer,\ java.lang.Integer)
+comment5.params=i
+comment5.target=void\ remove(java.lang.Integer)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LinearList
+comment1.params=
+comment1.target=LinearList()
+comment2.params=i
+comment2.target=void\ add(java.lang.Integer)
+comment3.params=i\ pos
+comment3.target=void\ add(java.lang.Integer,\ java.lang.Integer)
+comment4.params=i
+comment4.target=void\ remove(java.lang.Integer)
+comment5.params=
+comment5.target=void\ TRAVERSE()
+numComments=6

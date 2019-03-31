@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=List
+comment1.params=i
+comment1.target=void\ add(java.lang.Integer)
+comment2.params=i
+comment2.target=void\ remove(java.lang.Integer)
+comment3.params=i\ j
+comment3.target=void\ add(java.lang.Integer,\ java.lang.Integer)
+comment4.params=
+comment4.target=void\ TRAVERSE()
+numComments=5
