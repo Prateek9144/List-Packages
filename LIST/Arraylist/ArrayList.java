@@ -32,7 +32,7 @@ public class ArrayList implements List
     public void add(Integer y,Integer pos)
     {
         try{
-            if(pos<0&&pos>size)
+            if(pos<0||pos>size)
             {
                 BoundsException ob=new BoundsException();
                 throw ob;
